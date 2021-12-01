@@ -3,16 +3,16 @@
 
 ## 🏆 Awards
 ### Algorithm
-- 2020 부산코딩경진대회 대학부 : 은상
-- 2019 부산코딩경진대회 대학부 : 장려상
-- 2019 ACM-ICPC Seoul Regional : 21st place (37th rank / 90 teams)
-- 2018 ACM-ICPC Seoul Regional : 25th place (45th rank / 90 teams)
-- 2017 ACM-ICPC Daejon Regional : Honoroble Mention (70th rank / 86 teams)
+- 2020 부산코딩경진대회 대학부 - 은상
+- 2019 부산코딩경진대회 대학부 - 장려상
+- 2019 ACM-ICPC Seoul Regional - 21st place (37th rank / 90 teams)
+- 2018 ACM-ICPC Seoul Regional - 25th place (45th rank / 90 teams)
+- 2017 ACM-ICPC Daejon Regional - Honoroble Mention (70th rank / 86 teams)
 ### Data Science
-- 2021 AIDD(Artificial Intelligence Diabetes Datathon) : 우수상
-- 2021 USG AI 문제해결 제조혁신 경진대회 : 우수상
+- 2021 AIDD(Artificial Intelligence Diabetes Datathon) - 우수상
+- 2021 USG AI 문제해결 제조혁신 경진대회-: 우수상
 ### Medicine
-- 2020 부산미래과학자상 대학 이학부문 : 우수상 (Unity를 이용한 의사국가고시 실기시험 연습용 VR 프로그램 개발)
+- 2020 부산미래과학자상 대학 이학부문 - 우수상 (Unity를 이용한 의사국가고시 실기시험 연습용 VR 프로그램 개발)
 
 ## ✍ Additional Course Taken
 ### Data Science
